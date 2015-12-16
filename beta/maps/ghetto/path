@@ -1,0 +1,28 @@
+Robot 0 1 25 99
+Robot 0 19 25 99
+Robot 1 14 3 4
+Robot 1 14 3 12
+Robot 2 3 8 30
+Robot 2 17 8 30
+Robot 3 18 17 85
+Robot 3 1 17 85
+Robot 4 25 32 58
+Robot 4 34 32 58
+Robot 5 53 35 2
+Robot 5 53 35 12
+Robot 6 117 37 41
+Robot 6 117 37 17
+Robot 7 97 52 87
+Robot 7 109 50 83
+Robot 7 124 50 83
+Robot 8 59 52 82
+Robot 8 59 52 104
+Robot 9 67 52 82
+Robot 9 67 52 104
+Robot 10 80 52 104
+Robot 10 80 52 104
+Robot 11 40 61 64
+Robot 11 50 61 64
+Camera 39 100 58
+Camera 25 80 40
+Camera 22.5 -2.5 0.5

@@ -1,0 +1,85 @@
+Moving 0 X:109 Y:10 Z:333 DX:5 DY:1 DZ:5 Control:0 Speed:.03 textures/concrete.jpg
+Moving 0 X:265 Y:32 Z:189 Speed:.15 textures/concrete.jpg
+Moving 0 X:265 Y:20 Z:189 Speed:.03 textures/concrete.jpg
+Moving 0 X:109 Y:-4 Z:333 Speed:.15 textures/concrete.jpg
+Moving 1 X:11 Y:30 Z:462 DX:5 DY:1 DZ:5 Control:0 Speed:.01 textures/concrete.jpg
+Moving 1 X:11 Y:110 Z:462 Speed:.07 textures/concrete.jpg
+Moving 1 X:11 Y:26 Z:462 Speed:.07 textures/concrete.jpg
+Moving 2 X:19 Y:1 Z:704.25 DX:5 DY:1 DZ:5 Control:0 Speed:.01 textures/concrete.jpg
+Moving 2 X:19 Y:65 Z:704.25 Speed:.07 textures/concrete.jpg
+Moving 2 X:19 Y:-2 Z:704.25 Speed:.07 textures/concrete.jpg
+Moving 3 X:18.9 Y:104.5 Z:470 DX:5 DY:1 DZ:5 Control:0 Speed:.01 textures/concrete.jpg
+Moving 3 X:-10.75 Y:104.5 Z:470 Speed:.07 textures/concrete.jpg
+Moving 3 X:26.5 Y:104.5 Z:470 Speed:.07 textures/concrete.jpg
+Moving 4 X:-13.9 Y:104.5 Z:470 DX:5 DY:1 DZ:5 Control:0 Speed:.07 textures/concrete.jpg
+Moving 4 X:-26.75 Y:104.5 Z:470 Speed:.07 textures/concrete.jpg
+Moving 5 X:-29.75 Y:104.5 Z:470 DX:5 DY:1 DZ:5 Control:0 Speed:.04 textures/concrete.jpg
+Moving 5 X:-29.75 Y:124.5 Z:510 Speed:.04 textures/concrete.jpg
+Moving 6 X:-29.75 Y:124.5 Z:520 DX:5 DY:1 DZ:5 Control:0 Speed:.04 textures/concrete.jpg
+Moving 6 X:-50.75 Y:124.5 Z:520 Speed:.04 textures/concrete.jpg
+Moving 7 X:-50.75 Y:124.5 Z:520 DX:5 DY:1 DZ:5 Control:0 Speed:.04 textures/concrete.jpg
+Moving 7 X:-53.75 Y:124.5 Z:541 Speed:.04 textures/concrete.jpg
+Moving 8 X:-70.75 Y:124.5 Z:520 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 8 X:-70.75 Y:124.5 Z:541 Speed:.02 textures/concrete.jpg
+Moving 9 X:-74.75 Y:124.5 Z:545 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 9 X:-90.75 Y:124.5 Z:545 Speed:.02 textures/concrete.jpg
+Moving 10 X:-100.75 Y:124.5 Z:520 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 10 X:-100.75 Y:124.5 Z:541 Speed:.02 textures/concrete.jpg
+Moving 11 X:-148 Y:133 Z:523 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 11 X:-148 Y:133 Z:499.5 Speed:.02 textures/concrete.jpg
+Moving 12 X:-160 Y:135 Z:499.5 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 12 X:-160 Y:135 Z:523 Speed:.02 textures/concrete.jpg
+Moving 13 X:-176 Y:138 Z:523 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 13 X:-176 Y:138 Z:499.5 Speed:.02 textures/concrete.jpg
+Moving 14 X:-188 Y:140 Z:499.5 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 14 X:-188 Y:140 Z:523 Speed:.02 textures/concrete.jpg
+Moving 15 X:-200 Y:142 Z:523 DX:5 DY:1 DZ:5 Control:0 Speed:.02 textures/concrete.jpg
+Moving 15 X:-200 Y:142 Z:499.5 Speed:.02 textures/concrete.jpg
+Moving 16 X:64 Y:70.47 Z:697 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 16 X:33 Y:50 Z:697 Speed:.1 textures/concrete.jpg
+Moving 16 X:33 Y:50 Z:715 Speed:.1 textures/concrete.jpg
+Moving 16 X:64 Y:70.47 Z:715 Speed:.1 textures/concrete.jpg
+Moving 17 X:33 Y:50 Z:715 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 17 X:64 Y:70.47 Z:715 Speed:.1 textures/concrete.jpg
+Moving 17 X:64 Y:70.47 Z:697 Speed:.1 textures/concrete.jpg
+Moving 17 X:33 Y:50 Z:697 Speed:.1 textures/concrete.jpg
+Moving 18 X:60 Y:60.47 Z:685.5 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 18 X:91 Y:80.5 Z:685.5 Speed:.1 textures/concrete.jpg
+Moving 18 X:91 Y:80.5 Z:667.5 Speed:.1 textures/concrete.jpg
+Moving 18 X:60 Y:60.47 Z:667.5 Speed:.1 textures/concrete.jpg
+Moving 19 X:91 Y:80.5 Z:667.5 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 19 X:60 Y:60.47 Z:667.5 Speed:.1 textures/concrete.jpg
+Moving 19 X:60 Y:60.47 Z:685.5 Speed:.1 textures/concrete.jpg
+Moving 19 X:91 Y:80.5 Z:685.5 Speed:.1 textures/concrete.jpg
+Moving 20 X:87 Y:78.47 Z:715.25 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 20 X:87 Y:78.47 Z:697.25 Speed:.1 textures/concrete.jpg
+Moving 20 X:118 Y:98.47 Z:697.25 Speed:.1 textures/concrete.jpg
+Moving 20 X:118 Y:98.47 Z:715.25 Speed:.1 textures/concrete.jpg
+Moving 21 X:118 Y:98.47 Z:697.25 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 21 X:118 Y:98.47 Z:715.25 Speed:.1 textures/concrete.jpg
+Moving 21 X:87 Y:78.47 Z:715.25 Speed:.1 textures/concrete.jpg
+Moving 21 X:87 Y:78.47 Z:697.25 Speed:.1 textures/concrete.jpg
+Moving 22 X:144.35 Y:102.47 Z:670.15 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 22 X:113.35 Y:82.47 Z:670.15 Speed:.1 textures/concrete.jpg
+Moving 22 X:113.35 Y:82.47 Z:688.15 Speed:.1 textures/concrete.jpg
+Moving 22 X:144.35 Y:102.47 Z:688.15 Speed:.1 textures/concrete.jpg
+Moving 23 X:113.35 Y:82.47 Z:688.15 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 23 X:144.35 Y:102.47 Z:688.15 Speed:.1 textures/concrete.jpg
+Moving 23 X:144.35 Y:102.47 Z:670.15 Speed:.1 textures/concrete.jpg
+Moving 23 X:113.35 Y:82.47 Z:670.15 Speed:.1 textures/concrete.jpg
+Moving 24 X:145.5 Y:98 Z:697 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 24 X:176.5 Y:118 Z:697 Speed:.1 textures/concrete.jpg
+Moving 24 X:176.5 Y:118 Z:715 Speed:.1 textures/concrete.jpg
+Moving 24 X:145.5 Y:98 Z:715 Speed:.1 textures/concrete.jpg
+Moving 25 X:176.5 Y:118 Z:715 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 25 X:145.5 Y:98 Z:715 Speed:.1 textures/concrete.jpg
+Moving 25 X:145.5 Y:98 Z:697 Speed:.1 textures/concrete.jpg
+Moving 25 X:176.5 Y:118 Z:697 Speed:.1 textures/concrete.jpg
+Moving 26 X:211.5 Y:127.5 Z:689 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 26 X:182.5 Y:107.5 Z:689 Speed:.1 textures/concrete.jpg
+Moving 26 X:182.5 Y:107.5 Z:667 Speed:.1 textures/concrete.jpg
+Moving 26 X:211.5 Y:127.5 Z:667 Speed:.1 textures/concrete.jpg
+Moving 27 X:182.5 Y:107.5 Z:667 DX:5 DY:1 DZ:5 Control:0 Speed:.1 textures/concrete.jpg
+Moving 27 X:211.5 Y:127.5 Z:667 Speed:.1 textures/concrete.jpg
+Moving 27 X:211.5 Y:127.5 Z:689 Speed:.1 textures/concrete.jpg
+Moving 27 X:182.5 Y:107.5 Z:689 Speed:.1 textures/concrete.jpg

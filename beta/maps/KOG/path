@@ -1,0 +1,94 @@
+Moving 0 X:-152 Y:10 Z:-22 DX:5 DY:1 DZ:5 Control:0 Speed:.07 textures/door.jpg
+Moving 0 X:-100 Y:10 Z:-22 Speed:.07 textures/door.jpg
+Moving 0 X:-100 Y:10 Z:-28 Speed:.07 textures/door.jpg
+Moving 0 X:-152 Y:10 Z:-28 Speed:.07 textures/door.jpg
+Moving 1 X:-100 Y:10 Z:-28 DX:5 DY:1 DZ:5 Control:0 Speed:.07 textures/door.jpg
+Moving 1 X:-152 Y:10 Z:-28 Speed:.07 textures/door.jpg
+Moving 1 X:-152 Y:10 Z:-22 Speed:.07 textures/door.jpg
+Moving 1 X:-100 Y:10 Z:-22 Speed:.07 textures/door.jpg
+Moving 2 X:-100 Y:10 Z:74 DX:5 DY:1 DZ:5 Control:0 Speed:.07 textures/door.jpg
+Moving 2 X:-152 Y:10 Z:74 Speed:.07 textures/door.jpg
+Moving 2 X:-152 Y:10 Z:80 Speed:.07 textures/door.jpg
+Moving 2 X:-100 Y:10 Z:80 Speed:.07 textures/door.jpg
+Moving 3 X:-152 Y:10 Z:80 DX:5 DY:1 DZ:5 Control:0 Speed:.07 textures/door.jpg
+Moving 3 X:-100 Y:10 Z:80 Speed:.07 textures/door.jpg
+Moving 3 X:-100 Y:10 Z:74 Speed:.07 textures/door.jpg
+Moving 3 X:-152 Y:10 Z:74 Speed:.07 textures/door.jpg
+Moving 4 X:0 Y:75 Z:80 DX:110 DY:1 DZ:5 Control:0 Speed:.04 textures/door.jpg
+Moving 4 X:0 Y:75 Z:80 Speed:.04 textures/door.jpg
+Moving 5 X:12 Y:120 Z:-20 DX:60 DY:1 DZ:5 Control:0 Speed:-.04 textures/door.jpg
+Moving 5 X:12 Y:120 Z:-20 Speed:-.04 textures/door.jpg
+Moving 6 X:-92 Y:180 Z:25 DX:5 DY:1 DZ:80 Control:1 Speed:-.04 textures/door.jpg
+Moving 7 X:-18 Y:180 Z:25 DX:5 DY:1 DZ:80 Control:1 Speed:-.04 textures/door.jpg
+Moving 8 X:-54 Y:180 Z:67 DX:70 DY:1 DZ:5 Control:1 Speed:-.04 textures/door.jpg
+Moving 9 X:-54 Y:180 Z:-17 DX:70 DY:1 DZ:5 Control:1 Speed:-.04 textures/door.jpg
+Robot 0 -58.1 2 -18.5
+Robot 0 -58.1 2 -33.8
+Robot 1 -6.75 42 22.7
+Robot 1 -17.85 42 22.7
+Robot 1 -17.85 42 6.5
+Robot 1 -6.75 42 6.5
+Robot 2 88.2 84.47 38.85
+Robot 2 88.2 84.47 23.7
+Robot 2 94 84.47 23.7
+Robot 2 94 84.47 14.9
+Robot 2 109 84.47 14.9
+Robot 2 109 84.47 37.5
+Robot 3 71.24 101.9 0
+Robot 3 90 101.9 0
+Robot 3 90 101.9 16.8
+Robot 3 71.24 101.9 16.8
+Robot 4 -15 122.5 -22
+Robot 4 -15 122.5 -18
+Robot 5 -11 122.5 -22
+Robot 5 -11 122.5 -18
+Robot 6 -7 122.5 -22
+Robot 6 -7 122.5 -18
+Robot 7 -3 122.5 -22
+Robot 7 -3 122.5 -18
+Robot 8 1 122.5 -22
+Robot 8 1 122.5 -18
+Robot 9 5 122.5 -22
+Robot 9 5 122.5 -18
+Robot 10 9 122.5 -22
+Robot 10 9 122.5 -18
+Robot 11 13 122.5 -22
+Robot 11 13 122.5 -18
+Robot 12 17 122.5 -22
+Robot 12 17 122.5 -18
+Robot 13 21 122.5 -22
+Robot 13 21 122.5 -18
+Robot 14 25 122.5 -22
+Robot 14 25 122.5 -18
+Robot 15 29 122.5 -22
+Robot 15 29 122.5 -18
+Robot 16 33 122.5 -22
+Robot 16 33 122.5 -18
+Robot 17 37 122.5 -22
+Robot 17 37 122.5 -18
+Robot 18 -25 2 -18.5
+Robot 18 -25 2 -33.8
+Robot 19 -83 2 -18.5
+Robot 19 -83 2 -33.8
+Robot 20 -45 120 -16
+Robot 20 -45 120 -24
+Robot 21 -47 120 -16
+Robot 21 -47 120 -24
+Robot 22 -49 120 -16
+Robot 22 -49 120 -24
+Robot 23 -51 120 -16
+Robot 23 -51 120 -24
+Robot 24 -53 120 -16
+Robot 24 -53 120 -24
+Robot 25 -55 120 -16
+Robot 25 -55 120 -24
+Robot 26 -57 120 -16
+Robot 26 -57 120 -24
+Robot 27 -59 120 -16
+Robot 27 -59 120 -24
+Robot 28 -61 120 -16
+Robot 28 -61 120 -24
+Robot 29 -63 120 -16
+Robot 29 -63 120 -24
+Robot 30 -65 120 -16
+Robot 30 -65 120 -24
